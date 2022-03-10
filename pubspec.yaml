@@ -1,4 +1,4 @@
-name: mobile
+name: untitled
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -51,6 +51,15 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
+  assets:
+    - assets/appimages/1.jpg
+    - assets/appimages/tanuki.png
+    - assets/appimages/cat.png
+    - assets/appimages/shiba.png
+    - assets/appimages/panda.png
+    - assets/appimages/tiger.png
+    - assets/appimages/phoenix.png
+
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
